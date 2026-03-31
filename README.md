@@ -115,7 +115,7 @@ image image
 
 👨‍💻 Author
 
-Kushagra Srivastava Third Year Student, VIT Bhopal
+Ashtitva Pandey Third Year Student, VIT Bhopal
 
 📜 License
 
